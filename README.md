@@ -1,4 +1,3 @@
-**Demo**
 <br>
 [Demo](https://react-adminlte-dash.netlify.app/)
 
