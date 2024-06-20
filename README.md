@@ -1,6 +1,6 @@
 **Demo**
 <br>
-[log](https://react-adminlte-dash.netlify.app/)
+[Demo](https://react-adminlte-dash.netlify.app/)
 
 # Getting Started with Create React App
 
