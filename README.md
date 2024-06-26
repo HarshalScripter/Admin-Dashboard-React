@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ecd51ee5-4f5b-4864-95a6-6082c3579ec3/deploy-status)](https://app.netlify.com/sites/verifyinput/deploys)
+[DEMO](react-adminlte-dash.netlify.app)
 
 # Getting Started with Create React App
 
