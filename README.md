@@ -1,4 +1,4 @@
-[DEMO](react-adminlte-dash.netlify.app)
+[DEMO]([react-adminlte-dash.netlify.app])
 
 # Getting Started with Create React App
 
