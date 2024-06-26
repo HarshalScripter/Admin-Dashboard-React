@@ -1,4 +1,3 @@
-<br>
 [Demo](https://react-adminlte-dash.netlify.app/)
 
 # Getting Started with Create React App
