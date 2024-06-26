@@ -1,4 +1,4 @@
-[DEMO](https://app.netlify.com/sites/react-adminlte-dash/deploys)
+[DEMO](https://react-adminlte-dash.netlify.app/)
 
 
 # Getting Started with Create React App
