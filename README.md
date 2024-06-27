@@ -1,5 +1,4 @@
 # Demo
-</br>
 
 <a href="https://react-adminlte-dash.netlify.app/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
